@@ -31,8 +31,9 @@ appropriate arguments to ask the Trezor device for the public Bitcoin addresses.
 
 # Running it, Using it
 
+* After downloading or copying the file, change the file permissions such that you can execute the file. E.g. on Linux do a `chmod 544` or similar.
 * Connect your Trezor device and start program with `TrezorListPublicAddresses.py` or `./TrezorListPublicAddresses.py` or `python TrezorListPublicAddresses.py` or `python3 TrezorListPublicAddresses.py`.
-* If and only if desired you can edit it with your favorite text editor to change some parameters like accounts, amount of addresses, etc.
+* If and only if desired you can edit it with your favorite text editor to change some parameters like amount of addresses, accounts, etc.
 * Tell your friends :)
 
 # Alternatives
